@@ -1,0 +1,27 @@
+{
+  "name": "personal-website",
+  "homepage": "https://github.com/viggyfresh/personal-website",
+  "authors": [
+    "Vignesh Venkataraman <sendittovignesh@gmail.com>"
+  ],
+  "description": "Viggy's Personal Website",
+  "main": "index.html",
+  "keywords": [
+    "website"
+  ],
+  "license": "WTFPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.1.0",
+    "jquery": "^2.2.4",
+    "semantic": "^2.1.8",
+    "classnames": "^2.2.5"
+  }
+}
